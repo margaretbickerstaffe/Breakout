@@ -1,0 +1,18 @@
+Small main class calls play game
+
+Classes: UserInterface, PlayGame, Bricks, Ball, PowerUp, PlayerPackage (Scores, Lives), GamePlay
+
+MethodHeaders: 
+PlayGame- playGame
+Lives- loseLives, addLives(?), setLives
+Bricks- placement
+Ball- placement
+PowerUp
+Scores- topScore
+GamePlay- pending figuring out what to do 
+
+Testing: JUNIT, print lines, playing, how do we test graphics?
+
+Timeline: Friday: Have classes and methods made, setUp page, better understanding 
+		  Sunday: Running game, fixing up final bugs 
+		  Tuesday: PowerUp
